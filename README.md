@@ -11,4 +11,4 @@
 
 ![Prices_Of_Cryptocurrency_Bot_Start](https://github.com/nikit0ns/Prices_Of_Cryptocurrency_Bot/blob/master/Screenshots/Prices_Of_Cryptocurrency_Bot_Start.png)
 ![Prices_Of_Cryptocurrency_Bot_Price](https://github.com/nikit0ns/Prices_Of_Cryptocurrency_Bot/blob/master/Screenshots/Prices_Of_Cryptocurrency_Bot_Price.png)
-![Prices_Of_Cryptocurrency_Bot_Commands(https://github.com/nikit0ns/Prices_Of_Cryptocurrency_Bot/blob/master/Screenshots/Prices_Of_Cryptocurrency_Bot_Commands.png)
+![Prices_Of_Cryptocurrency_Bot_Commands](https://github.com/nikit0ns/Prices_Of_Cryptocurrency_Bot/blob/master/Screenshots/Prices_Of_Cryptocurrency_Bot_Commands.png)
