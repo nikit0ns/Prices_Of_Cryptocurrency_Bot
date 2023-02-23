@@ -4,7 +4,7 @@
 - :bar_chart: You can find out the Price, Price Change in 24 hours, Trading Volume in 24 hours, Market Capitalization.
 - :books: There is the `'CoinGecko'` API is connected here to know the price of Cryptocurrency.
 - :open_file_folder: The Bot has three commands: `/start` , `/price` , `/help`.
-- :lock: The Telegram Bot Status: Doesn't Work On Hosting.
+- :lock: The Telegram Bot Status: Does't Work On Hosting.
 
 ---
 
